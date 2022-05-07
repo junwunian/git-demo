@@ -1,5 +1,8 @@
 hello dengge niubi
+<<<<<<< HEAD
 denggeniubi master test
 denggeniubi hot-fix test
 如果真的可以让我爱你
 你是否会放弃
+denggeniubi hot-fix 我爱你
+
